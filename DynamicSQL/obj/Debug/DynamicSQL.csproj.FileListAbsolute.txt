@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\bin\Debug\DynamicSQL.exe.config
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\bin\Debug\DynamicSQL.exe
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\bin\Debug\DynamicSQL.pdb
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.Form1.resources
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.exe
+C:\Users\MTCStudent\Desktop\C # programming\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.pdb
